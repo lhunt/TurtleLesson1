@@ -2,6 +2,6 @@ numpy==1.16.*
 matplotlib==3.*
 seaborn==0.8.1
 pandas
-python3-tk==8.4.*
-turtle
+python3-tk
+
 
